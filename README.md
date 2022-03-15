@@ -7,6 +7,10 @@ Notes on where to get device fingerprint mappings.
 Start from https://github.com/SeparateRecords/apple_device_identifiers, 
 viewing the data there, and the referenced links to other resources.
 
+## Android devices
+
+Maybe check here: https://support.google.com/googleplay/answer/1727131?hl=en, particularly https://storage.googleapis.com/play_public/supported_devices.html.
+
 ## Amazon devices
 
 * https://developer.amazon.com/docs/fire-tablets/ft-identifying-tablet-devices.html
@@ -18,6 +22,10 @@ viewing the data there, and the referenced links to other resources.
 ## Smart TV devices
 
 * https://deviceatlas.com/blog/list-smart-tv-user-agent-strings
+
+## Chromebook/Chrome OS devices
+
+Maybe check here: https://support.google.com/googleplay/answer/1727131?hl=en, particularly https://sites.google.com/a/chromium.org/dev/chromium-os/chrome-os-systems-supporting-android-apps
 
 ## Device browser databases
 
